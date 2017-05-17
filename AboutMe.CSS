@@ -1,34 +1,35 @@
+table { 
+     
+     background-color:#1F7915;
+	 color:#FE0101;
+	 font-size:20px;
+}
 h1 {
     font-size: 60px;
     font-family: 'Amatic SC';font-size: 48px;
 	margin:auto;
-	background-color:green
+	background-color:red 
 	
 }
-body {
-    background-color: Red;
-}
-table { 
-     
-     background-color:#FF0000;
-	 color:#000000;
-	 font-size:20px;
-}
-h2 {
+h1 { 
     margin:auto;
     width: 50%;
     border: 2px;
     padding: 12px;
 }
-h3 { 
-       font-size: 60px;
-    font-family: 'Amatic SC';font-size: 48px;
-	margin:auto;
-	background-color:green
+center{ 
+     text-align:center;
+	 background:#206d1c;
+	 font-size:50px; 
+	 margin:auto;
+	 margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
 li{float:left;}
 li a{display:block;
-color:green;
+color:red;
 text-align:center; 
 padding:14px 16px;
 text-decoration:none;} 
